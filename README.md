@@ -1,5 +1,5 @@
 # hook-flow
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 React Hooks were introduced in version 16.8.0. They are a complete departure from class component lifecycle events.
 
@@ -32,8 +32,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/887639?v=4" width="100px;" alt="Donavon West"/><br /><sub><b>Donavon West</b></sub>](http://donavon.com)<br />[🤔](#ideas-donavon "Ideas, Planning, & Feedback") [🚇](#infra-donavon "Infrastructure (Hosting, Build-Tools, etc)") [🚧](#maintenance-donavon "Maintenance") [👀](#review-donavon "Reviewed Pull Requests") [💻](https://github.com/donavon/hook-flow/commits?author=donavon "Code") [🎨](#design-donavon "Design") |
-| :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/887639?v=4" width="100px;" alt="Donavon West"/><br /><sub><b>Donavon West</b></sub>](http://donavon.com)<br />[🤔](#ideas-donavon "Ideas, Planning, & Feedback") [🚇](#infra-donavon "Infrastructure (Hosting, Build-Tools, etc)") [🚧](#maintenance-donavon "Maintenance") [👀](#review-donavon "Reviewed Pull Requests") [💻](https://github.com/donavon/hook-flow/commits?author=donavon "Code") [🎨](#design-donavon "Design") | [<img src="https://avatars2.githubusercontent.com/u/29359616?v=4" width="100px;" alt="Revel Carlberg West"/><br /><sub><b>Revel Carlberg West</b></sub>](https://github.com/revelcw)<br />[🤔](#ideas-revelcw "Ideas, Planning, & Feedback") [🎨](#design-revelcw "Design") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
