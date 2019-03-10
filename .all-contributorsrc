@@ -1,0 +1,28 @@
+{
+  "projectName": "hook-flow",
+  "projectOwner": "donavon",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "donavon",
+      "name": "Donavon West",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/887639?v=4",
+      "profile": "http://donavon.com",
+      "contributions": [
+        "ideas",
+        "infra",
+        "maintenance",
+        "review",
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
