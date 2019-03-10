@@ -12,6 +12,15 @@ This flow dragram is also available as a [PDF file](https://github.com/donavon/h
 <img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" alt="flow chart" width="400">
 </p>
 
+## Open in browser
+
+To quickly open the Hook Flow Diagram in your default browser, you can execute the following
+from your terminal. Commit this to memory! 😉
+
+```bash
+$ npx hook-flow
+```
+
 ## License
 
 **[MIT](LICENSE)** Licensed
