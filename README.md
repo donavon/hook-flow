@@ -7,7 +7,7 @@ Here is a flow diagram that explains the new flow of a Hooks component.
 
 ## Flow Diagram
 
-This flow dragram is also available as a [PDF file](https://github.com/donavon/hook-flow/blob/master/hook-flow.pdf).
+This flow diagram is also available as a [PDF file](https://github.com/donavon/hook-flow/blob/master/hook-flow.pdf).
 
 <p>
 <img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" alt="flow chart" width="400">
