@@ -1,6 +1,6 @@
 {
   "name": "hook-flow",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A flow diagram that explains the new flow of a Hooks component.",
   "author": "Donavon West <github@donavon.com> (https://github.com/donavon)",
   "license": "MIT",

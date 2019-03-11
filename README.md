@@ -2,6 +2,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 React Hooks were introduced in version 16.8.0. They are a complete departure from class component lifecycle events.
+For more information, see the official React
+[Hooks API Reference](https://reactjs.org/docs/hooks-reference.html).
 
 Here is a flow diagram that explains the new flow of a Hooks component.
 
