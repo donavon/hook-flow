@@ -10,5 +10,8 @@
   },
   "bin": {
     "hook-flow": "./hook-flow.sh"
+  },
+  "dependencies": {
+    "open": "^7.3.0"
   }
 }
